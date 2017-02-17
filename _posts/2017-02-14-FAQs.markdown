@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "FAQs"
+date:   2017-02-14 15:09:33 -0500
+categories: jekyll update
+---
+As is understandable, people frequently have questions about my plans. I'm often questioning myself too. These are answers to Frequently Asked Questions.
+
+<b>How can you afford to take 4+ months off of work in a place like NYC?</b> <br>
+Short answer: I'm incredibly privileged to be able to do this.<br>
+I've been priviledged with the schooling I've had and the jobs that I've worked. In the four years after college, I've saved some money to allow myself the flexibility to do something like this. I'm living more frugally now, as to not burn all of my savings. It's also helpful that AppAcademy's payment model allows me to pay only after I find a job. My worst case scenario is that I run out of money and move back to Texas, and again, I'm incredibly privileged to have this as my backup plan. 
+
+<b>Are you sure you will succeed? This seems different from your previous jobs/schooling.</b> <br>
+No, I'm not sure. If the success metric is finding any old job, then I think I will succeed. As for my true goal of finding a meaningful job working with like-minded people, I'm not sure.<br>
+As for succeeding at the bootcamp, I'm trying to set myself up for success as best as I can. I've been doing the required prep-work, doing some practice with codewars, and getting sleep!
+
+<b>Are you sure you have an apptitude for this stuff?</b> <br>
+Yes. It's taken me some time to get here, and even more time to have the confidence to say 'Yes'. The first litmus test I did was to take a week off from work as a "stay-cation" aka work-cation to create my website. The goal was to learn jekyll, design a website, and then deploy it. It was a success![visit my site!][my-site] Not only did I complete the website, I had fun each and every day. Litmus test 2 was to do a 2 week prep course for a/A. While doing the coursework for it, I was blazing through the practice problems. Again, I found myself HAVING FUN. It was crazy to me that I'd find myself thinking about better ways to do problems during lunch or on the subway. 
+
+<b>You're not like the other programmers I know!</b> <br>
+This is not a question, but a comment I've gotten so many times. Still not sure what exactly to say to this. If in fact, I am very different from the other programmers you know, either you need to expand your circle of programming friends, or the world of programming needs a bit more diversity. idk, you tell me. 
+
+<b>I thought you were going to do something more designy!</b> <br>
+Again, not a question, but another frequently made comment. Yes, yes, I do like things that are 'designy' but I don't think you can divorce design from code. It's inherent in both the way the code is rendered to users, and also in the way the code itself is architected. Design is everywhere. I'm just learing a new tool to create with. 
+
+<b>Soooo, does this mean we can't hang out between now and June?</b> <br>
+Probably not, to be quite frank. I'm planning on taking off some time on Sundays to relax, so maybe you can see me then. Otherwise, this is me, taking four months and living off of my savings to try and learn something new in an incredibly short period of time. I intend on devoting myself to it, and thank you in advance for your support. hehe. 
+
+<b>Are you applying to developer jobs after this?</b> <br>
+Yes, this is my intention. Doing the bootcamp for a few months and not practicing full-time(through a job, or otherwise), for a longer period of time seems short-sided to me. 
+
+<b>I wish I could take a risk like this!</b> <br>
+You can! It requires careful planning, but you can do it!
+
+<b>Can I hire you when you are done with AppAcademy?</b> <br>
+Okay no one has actually asked me this yet. But... YES!! You can also pass along my deets to all of your friends looking for developers. Y R U so nice. tytyty. 
+
+
+
+
+[my-site]: http://hahaha.cool
+
